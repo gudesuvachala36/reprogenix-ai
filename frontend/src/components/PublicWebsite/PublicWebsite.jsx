@@ -723,8 +723,7 @@ export default function PublicWebsite({
               <h3 className="font-bold text-[#08283a] text-sm">{t('clinicalHelpDesk')}</h3>
               <p className="text-xs text-slate-500 leading-relaxed">{t('clinicalHelpDeskDesc')}</p>
               <div className="pt-1 font-mono text-xs text-[#087e78] font-bold">
-                support@reprogenix.health
-              </div>
+             {t("contactComingSoon")}              </div>
             </div>
 
             <div className="p-5 bg-slate-50 rounded-2xl border border-slate-200/80 space-y-2">
@@ -734,7 +733,7 @@ export default function PublicWebsite({
               <h3 className="font-bold text-[#08283a] text-sm">{t('teleAndrologyHelpline')}</h3>
               <p className="text-xs text-slate-500 leading-relaxed">{t('teleAndrologyHelplineDesc')}</p>
               <div className="pt-1 font-mono text-xs text-[#087e78] font-bold">
-                +1 (800) 492-MALE
+                    +971 2 XXX XXXX
               </div>
             </div>
 
@@ -745,7 +744,7 @@ export default function PublicWebsite({
               <h3 className="font-bold text-[#08283a] text-sm">{t('hospitalReferrals')}</h3>
               <p className="text-xs text-slate-500 leading-relaxed">{t('hospitalReferralsDesc')}</p>
               <div className="pt-1 text-xs text-blue-700 font-bold">
-                Accredited Urology Centers
+               {t('accreditedUrologyCenters')}
               </div>
             </div>
           </div>

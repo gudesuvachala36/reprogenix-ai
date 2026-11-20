@@ -77,6 +77,7 @@ export const translations = {
     concernPat6: 'Proactive pre-conception check, optimizing fertility before pregnancy',
     concernPat7: 'Sudden onset (2h ago) severe acute unilateral testicular pain with nausea',
     concernPat8: 'Intense road cycling (15 hrs/week) causing perineal numbness and heat',
+    accreditedUrologyCenters: 'Accredited Urology Centers',
 
     immediateEDReferral: 'Immediate ED Referral',
     specialistReview: 'Specialist Review',
@@ -183,6 +184,7 @@ export const translations = {
     publicWeb: 'Public Website',
     doctorDashboard: 'Doctor Dashboard',
     patientDashboard: 'Patient Dashboard',
+    contactComingSoon: 'Contact details coming soon.',
     signIn: 'Sign In',
     signUp: 'Register',
     logOut: 'Log Out',
@@ -878,6 +880,7 @@ export const translations = {
     attendingLabel: 'Médico tratante',
     concMMl: 'CONC (M/ML)',
     age: 'Edad',
+    contactComingSoon: 'Los datos de contacto estarán disponibles próximamente.',
     critical: 'Crítico',
     high: 'Alto',
     medium: 'Medio',
@@ -1173,6 +1176,7 @@ export const translations = {
     clinicalStatus: 'Estado Clínico',
     verifiedBy: 'Especialista en Medicina Reproductiva',
     digitallyVerified: 'VERIFICADO DIGITALMENTE POR REPROGENIX AI',
+    accreditedUrologyCenters: 'Centros de urología acreditados',
 
     liveEncrypted: 'TRANSMISIÓN ENCRIPTADA EN VIVO',
     playDoctorVoice: 'Escuchar Voz del Médico',
@@ -1727,6 +1731,7 @@ export const translations = {
     attendingLabel: 'Médecin traitant',
     concMMl: 'CONC (M/ML)',
     age: 'Âge',
+    contactComingSoon: 'Les coordonnées seront bientôt disponibles.',
     critical: 'Critique',
     high: 'Élevé',
     medium: 'Moyen',
@@ -1988,6 +1993,7 @@ export const translations = {
     service3Desc: 'Téléconsultations respectueuses des sensibilités culturelles et des projets de couple.',
     service4Title: 'Suivi du Cycle de 72-90 Jours',
     service4Desc: 'Suivi dynamique de la régénération des spermatozoïdes pour valider les progrès cliniques.',
+    accreditedUrologyCenters: 'Centres d’urologie agréés',
 
     patientRegister: 'Inscription Patient',
     doctorRegister: 'Inscription Médecin / Andrologue',
@@ -2570,6 +2576,7 @@ export const translations = {
   },
 
   de: {
+    accreditedUrologyCenters: 'Akkreditierte urologische Zentren',
     doctorPortal: 'Arzt-Portal',
     patientPortal: 'Patienten-Portal',
     riskAssessmentSub: 'Erklärbare 5-Stufen-Kliniktriage, Multi-Domänen-Biomarker-Scoring und Live-Kliniksimulator.',
@@ -2578,6 +2585,7 @@ export const translations = {
     age: 'Alter',
     critical: 'Kritisch',
     high: 'Hoch',
+    contactComingSoon: 'Kontaktdaten sind in Kürze verfügbar.',
     medium: 'Mittel',
     evidence: 'Evidenz',
     defaultScheduleNotes: 'Überprüfung des 72-Tage-Fortschritts und der Lebensstil-Biomarker.',
@@ -3486,7 +3494,7 @@ export const translations = {
     concernPat6: 'सक्रिय पूर्व-गर्भाधान जाँच, गर्भावस्था से पहले प्रजनन क्षमता अनुकूलन',
     concernPat7: 'अचानक (2 घंटे पहले) मतली के साथ गंभीर अंडकोष दर्द',
     concernPat8: 'अत्यधिक साइकिल चलाना (15 घंटे/सप्ताह) जिससे पेरिनील सुन्नता और गर्मी',
-
+    contactComingSoon : 'संपर्क विवरण जल्द उपलब्ध होंगे।"',
     immediateEDReferral: 'तत्काल ED रेफरल',
     specialistReview: 'विशेषज्ञ समीक्षा',
     primaryCareGuidance: 'प्राथमिक देखभाल मार्गदर्शन',
@@ -3600,7 +3608,7 @@ export const translations = {
     doctorRole: 'वरिष्ठ एंड्रोलॉजिस्ट और प्रजनन विशेषज्ञ',
     patientTitle: 'मार्कस वेंस',
     patientRole: 'मरीज़ • MRN-882194',
-
+    accreditedUrologyCenters: 'मान्यता प्राप्त यूरोलॉजी केंद्र',
     overviewAnalytics: 'क्लिनिकल एनालिटिक्स',
     patientRecords: 'मरीज़ रिकॉर्ड',
     riskAssessment: 'जोखिम मूल्यांकन परिणाम',
@@ -4335,6 +4343,7 @@ export const translations = {
     concernPat6: 'فحص استباقي قبل الحمل، تحسين الخصوبة قبل الإنجاب',
     concernPat7: 'ألم مفاجئ حاد في الخصية (منذ ساعتين) مع غثيان',
     concernPat8: 'ركوب دراجات مكثف (15 ساعة/أسبوع) يسبب خدر العجان والحرارة',
+    contactComingSoon: "رابطے کی تفصیلات جلد دستیاب ہوں گی۔",
 
     immediateEDReferral: 'إحالة طوارئ فورية',
     specialistReview: 'مراجعة متخصصة',
@@ -4556,6 +4565,7 @@ export const translations = {
     createAccount: 'إتمام التسجيل',
     quickDoctorLogin: '⚡ دخول تجريبي كطبيب (د. سارة جونسون)',
     quickPatientLogin: '⚡ دخول تجريبي كمريض (ماركوس فانس)',
+    accreditedUrologyCenters: 'مراكز المسالك البولية المعتمدة',
 
     reportTitle: 'معاينة التقرير الطبي',
     reportSubtitle: 'مركز صحة الذكورة وطب الإنجاب',
@@ -5264,6 +5274,7 @@ export const translations = {
     aboutFaithTitle: '信仰与文化尊重',
     aboutFaithDesc: '支持有利于宗教意识的精液采集方式。',
     notifMarkAllRead: '全部标为已读',
+    contactComingSoon: '联系方式即将提供。',
 
     reportRecommendationText: '2级：初级医疗干预与生活方式靶向优化 – 重点进行初级医疗干预和生活方式优化（睡眠管理、阴囊热应激规避、营养抗氧化支持、规律运动），全面提升生殖健康水平。',
     clinicalPortalOverview: '临床医疗门户',
@@ -5294,7 +5305,7 @@ export const translations = {
     signUp: '注册账号',
     logOut: '退出登录',
     getStarted: '立即开始',
-    doctorTitle: 'Sarah Johnson 医生, MD',
+    doctorTitle: '莎拉·強森醫師',
     doctorRole: '男科首席专家 / 生殖医学主管',
     patientTitle: 'Marcus Vance',
     patientRole: '患者 • 病历号-882194',
@@ -5940,6 +5951,8 @@ export const translations = {
     'nonSmoker': '不吸烟',
     'rosRiskFactor': '活性氧风险因素',
     'noneReported': '无异常报告',
+    'accreditedUrologyCenters': '经认证的泌尿外科中心',
+
     'milestonePat3': '内分泌轴重启与克罗米芬 / HCG 诱导',
     'triagePat3': '第1层级: 专科男科医生与内分泌转诊',
     'guidelineAuaAsrm': 'AUA/ASRM 指南 (2024 更新版)',

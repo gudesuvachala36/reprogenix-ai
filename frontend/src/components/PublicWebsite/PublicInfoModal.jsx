@@ -359,7 +359,7 @@ export default function PublicInfoModal({
                     <span>{t('clinicalHelpDesk')}</span>
                   </div>
                   <p className="text-slate-500 mb-2">{t('clinicalHelpDeskDesc')}</p>
-                  <span className="font-mono text-[#087e78] font-bold">support@reprogenix.health</span>
+                  <span className="font-mono text-[#087e78] font-bold">{t("contactComingSoon")} </span>
                 </div>
 
                 <div className="p-4 bg-slate-50 rounded-2xl border border-slate-200">
@@ -368,7 +368,8 @@ export default function PublicInfoModal({
                     <span>{t('teleAndrologyHelpline')}</span>
                   </div>
                   <p className="text-slate-500 mb-2">{t('teleAndrologyHelplineDesc')}</p>
-                  <span className="font-mono text-[#087e78] font-bold">+1 (800) 492-MALE</span>
+                  <span className="font-mono text-[#087e78] font-bold">+971 2 XXX XXXX
+</span>
                 </div>
               </div>
 
