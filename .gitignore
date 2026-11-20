@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+.pytest_cache/
+chroma_db/
+*.db
+backend/.venv/
+frontend/.vercel/
+backend/.pytest_cache/
